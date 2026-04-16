@@ -53,7 +53,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-origina
   <img 
    align="left" 
    alt="GitHub Status"
-    width="200px" 
+    width="600px" 
     style="padding-right: 10px;"
 src="https://github-readme-stats.vercel.app/api?username=annajulia20&show_icons=true&theme=merko&locale=pt-br" 
 />
+
