@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Anna Júlia
-**`Desenvolvedora FullStack`**
+**`Desenvolvedora Front-End`**
 
 Me chamo Anna Júlia, tenho 20 anos e sou natural de Fortaleza-CE. Estou cursando Ciencias da computação na UniGrande e fazendo curso de FullStack
 na rocketseat.
